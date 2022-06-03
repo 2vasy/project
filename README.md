@@ -1,4 +1,2 @@
 # project
-hsfhhsrh
-hmf,
-djtykryk
+курс по JS
