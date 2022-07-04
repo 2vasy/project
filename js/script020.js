@@ -29,3 +29,5 @@ const jonh = Object.create(soldlier);
 
 // console.log(jonh.armor);
 jonh.sayHello();
+
+// test-----
